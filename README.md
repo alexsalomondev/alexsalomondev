@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Programador en desarrollo...
+**Hola soy Alexander y me gusta programar y en esta cuenta estare publicando todos mis avanzes de proyectos**
+### Mis leguajes de programacion y tegnologias que uso son:**
+   C#
+   HTML Y CSS
+   PHP
+   Javascript
